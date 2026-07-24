@@ -1,5 +1,7 @@
-# # Example1
+##importing library
 # import math
+
+# # Example1
 # name1 = "Rahul"
 # name2 = "Shyam"
 # age1 = 20
