@@ -213,7 +213,7 @@
 #     print("Student's name is:", name)
 # print_student_name("Alice")
 
-# # write a function to calculate the average of three numbers
+# #write a function to calculate the average of three numbers
 # def average_of_three(x, y, z):
 #     return (x + y + z) / 3
 # result_average = average_of_three(5, 10, 15)
