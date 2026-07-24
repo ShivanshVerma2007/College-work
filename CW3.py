@@ -90,7 +90,7 @@
 #         print("Name        :", self.name)
 #         print("Age         :", self.age)
 
-# # Child Class (Derived Class)
+# #Child Class (Derived Class)
 # class Student(Person):
 #     def __init__(self, name, age, roll_no, marks):
 #         # Call Parent Constructor
