@@ -1,4 +1,4 @@
-# Intern-Ship work
+# Internship work
 Day 1 :  Python Fundamentals
 Python installation, variables, data types, operators, conditions, loops,
 calculator & grade programs
